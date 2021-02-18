@@ -1,0 +1,19 @@
+Assignment 1 Report
+
+Name:
+
+1. Naive Bayes performance on the development data
+1a. spam precision:
+1b. spam recall: 
+1c. spam F1 score: 
+1d. ham precision:
+1e. ham recall: 
+1f. ham F1 score:
+
+2. Perceptron performance on the development data
+2a. spam precision:
+2b. spam recall: 
+2c. spam F1 score: 
+2d. ham precision:
+2e. ham recall: 
+2f. ham F1 score:
