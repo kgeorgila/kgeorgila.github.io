@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>CSCI 644: Student presentations/discussions #4</title>
+</head>
+<body>
+
+<h2>Student presentations/discussions #4</h2>
+  
+<p>
+  Below are the papers to be discussed this week. Questions for discussion can be submitted on Blackboard.
+</p>
+
+<ul>
+<li>Braden Hancock, Antoine Bordes, Pierre-Emmanuel Mazare, and Jason Weston. Learning from dialogue after deployment: Feed yourself, chatbot! Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), 2019. <a href="hancock-etal-acl2019.pdf">pdf</a></li>
+<li>Chia-Wei Liu, Ryan Lowe, Iulian V. Serban, Michael Noseworthy, Laurent Charlin, and Joelle Pineau. How NOT to evaluate your dialogue system: An empirical study of unsupervised evaluation metrics for dialogue response generation. Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016. <a href="liu-etal-emnlp2016.pdf">pdf</a></li>
+<li>Michel Galley, Chris Brockett, Alessandro Sordoni, Yangfeng Ji, Michael Auli, Chris Quirk, Margaret Mitchell, Jianfeng Gao, and Bill Dolan. deltaBLEU: A discriminative metric for generation tasks with intrinsically diverse targets. Proceedings of the Annual Meeting of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing (ACL-IJCNLP), 2015. <a href="galley-etal-aclijcnlp2015.pdf">pdf</a></li>
+</ul>
+
+</body>
+</html>
+

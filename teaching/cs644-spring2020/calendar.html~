@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>CSCI 644: Calendar</title>
+</head>
+<body>
+<table border="1">
+<tr><td><b>Date</b></td><td><b>Speaker</b></td><td><b>Topic</b></td></tr>
+<tr><td>January 17 (F)</td><td>Georgila</td><td>Overview of natural language dialogue systems</td></tr>
+
+<tr><td>January 24 (F)</td><td></td><td></td></tr>
+
+<tr><td>January 31 (F)</td><td></td><td></td></tr>
+
+<tr><td>February 7 (F)</td><td></td><td></td></tr>
+
+<tr><td>February 14 (F)</td><td></td><td></td></tr>
+
+<tr><td>February 21 (F)</td><td></td><td></td></tr>
+
+<tr><td>February 28 (F)</td><td></td><td></td></tr>
+
+<tr><td>March 6 (F)</td><td></td><td></td></tr>
+
+<tr><td>March 13 (F)</td><td></td><td></td></tr>
+
+<tr><td>March 20 (F)</td><td></td><td></td></tr>
+
+<tr><td>March 27 (F)</td><td></td><td></td></tr>
+
+<tr><td>April 3 (F)</td><td></td><td></td></tr>
+
+<tr><td>April 10 (F)</td><td></td><td></td></tr>
+
+<tr><td>April 17 (F)</td><td></td><td></td></tr>
+
+<tr><td>April 24 (F)</td><td></td><td></td></tr>
+
+<tr><td>May 1 (F)</td><td></td><td></td></tr>
+
+</table>
+</body>
+</html>
+
+
+
+
+
+
